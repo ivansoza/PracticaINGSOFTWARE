@@ -2,4 +2,7 @@
 
 *.md
 
+/*.md
+/Readme.md
+
 
