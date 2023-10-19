@@ -5,22 +5,25 @@ Título: color Azul Marino
 Texto: Negro
 Tamaño de letra: 14
 Tipo de letra: comic San MS
+Maximo: 80 palabras
 
 Chiste 2: 
 Título: Verde
 Texto: Azul Marino
 Tamaño de letra: 14
 Tipo de letra: comic San MS
+Maximo: 80 palabras
 
 Chiste 3: 
 Título: Verde
 Texto: Azul Marino
 Tamaño de letra: 14
 Tipo de letra: comic San MS
+Maximo: 80 palabras
 
 Chiste 4: 
 Título: Rojo
 Texto: Verde
 Tamaño de letra: 14
 Tipo de letra: comic San MS
-
+Maximo: 80 palabras
